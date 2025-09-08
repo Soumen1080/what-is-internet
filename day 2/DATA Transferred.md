@@ -38,3 +38,32 @@ The main goal of this diagram is to visualize **the fundamental flow of data acr
 * **Local vs. Global Networks:** The role of the router and NAT in bridging a private home network with the public internet.
 * **The Role of an ISP:** Showing that the ISP is the essential link to the global network.
 * **Client-Server Architecture:** Demonstrating how our devices (clients) communicate with a central server (WhatsApp's server) to exchange information.
+
+=========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -151,7 +151,7 @@ Think of NAT as a receptionist for an office building.
 
 *Public IP Address (The Office's Main Phone Number):* Your entire network has only one public IP address, which is assigned by your Internet Service Provider (ISP). This is like the office's main public phone number that the outside world can call.
 
-The Router (The Receptionist): Your router acts as the receptionist. When a device on your private network wants to access the internet, it sends the request to the router. The router (the receptionist) then makes the request to the internet on its behalf, using the single public IP address (the main office number). When the response comes back from the internet, the router knows exactly which internal device (which extension) made the original request and forwards the information to it.
+*The Router (The Receptionist):* Your router acts as the receptionist. When a device on your private network wants to access the internet, it sends the request to the router. The router (the receptionist) then makes the request to the internet on its behalf, using the single public IP address (the main office number). When the response comes back from the internet, the router knows exactly which internal device (which extension) made the original request and forwards the information to it.
 
 # Why is NAT so important?
 **NAT serves two critical purposes:**
